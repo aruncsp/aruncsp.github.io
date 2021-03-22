@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://aruncsp.github.io",
+  "homepage": "https://aruncsp.github.io/my-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
